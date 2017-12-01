@@ -19,7 +19,7 @@ Client client = new Client(url, handler);
 client.setTransportFactory(new UrlConnectionBasicAuthTransportFactory());
 ```
 
-The user credentials must be passed via the URL, like so `https://<user>:<password>@someserver.example.org`, and that is all. Seriously, do not pass such an URL from the outside, but rather construct it at runtime.
+The user credentials must be passed via the URL, like so: `https://<user>:<password>@someserver.example.org`, and that is all. Seriously, do not pass such an URL from the outside, but rather construct it at runtime.
 
 ## SSL / TLS
 
