@@ -23,4 +23,4 @@ The user credentials must be passed via the URL, like so `https://<user>:<passwo
 
 ## SSL / TLS
 
-These classes do not enforce the use of SSL / TLS, because there are other means of secure transport, e.g. a VPN. However some sort of transport layer security is strongly advised when using HTTP Basic authentication, since the credentials are transferred as plain text. So, if these classes do not detect the use of HTTPS, the will issue a warning to the logging facility. If you use something else than HTTPS so secure the connection, you can safely ignore this.
+These classes do not enforce the use of SSL / TLS, because there are other means of secure transport, e.g. a VPN. However some sort of transport layer security is strongly advised when using HTTP Basic authentication, since the credentials are transferred as plain text. So, if these classes do not detect the use of HTTPS, they will issue a warning to the logging facility. If you use something other than HTTPS to secure the connection, you can safely ignore this.
