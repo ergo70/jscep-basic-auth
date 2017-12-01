@@ -1,5 +1,5 @@
 # jscep-basic-auth
-Transports for jscep with HTTP Basic-Authentication.
+Transports for [JSCEP](https://github.com/jscep/jscep) with HTTP Basic authentication.
 
 ## Requirements
 
