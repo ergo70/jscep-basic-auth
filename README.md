@@ -7,7 +7,7 @@ This needs a working [jscep](https://github.com/jscep/jscep) installation.
 
 ## Installation
 
-Just put the classes into the jscep source directory alongside the original JSCEP code and compile.
+Just put the classes into the jscep source directory alongside the original code and compile.
 
 ## Usage
 
