@@ -1,13 +1,13 @@
 # jscep-basic-auth
-Transports for [JSCEP](https://github.com/jscep/jscep) with HTTP Basic authentication.
+Transports for [jscep](https://github.com/jscep/jscep) with HTTP Basic authentication.
 
 ## Requirements
 
-This needs a working [JSCEP](https://github.com/jscep/jscep) installation.
+This needs a working [jscep](https://github.com/jscep/jscep) installation.
 
 ## Installation
 
-Just put the classes into the JSCEP source directory besides the original JSCEP code and compile.
+Just put the classes into the jscep source directory besides the original JSCEP code and compile.
 
 ## Usage
 
